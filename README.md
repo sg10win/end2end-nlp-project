@@ -1,0 +1,1 @@
+This project was my attempt to build a website where anyone can enter a sentence and receive as an output the feelings expressed by that sentence - an attempt to predict the feelings a person feels based on what he types
