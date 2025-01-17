@@ -18,5 +18,5 @@ This project demonstrates the power of natural language processing (NLP) combine
 
 ## Screenshots
 
-![Screenshot of the app](images/screenshot.png)
-![Screenshot of the app](images/screenshot.png)
+![Screenshot of the app](https://github.com/sg10win/streamlit-sentiment-analyzer/blob/master/imgs/santiment%20class.PNG)
+![Screenshot of the app](https://github.com/sg10win/streamlit-sentiment-analyzer/blob/master/imgs/santiment-class2.PNG)
