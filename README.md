@@ -15,3 +15,8 @@ This project is an attempt to build a website where anyone can enter a sentence 
 - The program processes the input and predicts the feelings based on the trained logistic regression model.
 
 This project demonstrates the power of natural language processing (NLP) combined with machine learning to provide real-time emotion analysis in a user-friendly way.
+
+## Screenshots
+
+![Screenshot of the app](images/screenshot.png)
+![Screenshot of the app](images/screenshot.png)
